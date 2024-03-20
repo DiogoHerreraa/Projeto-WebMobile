@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+
+h1{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+
+h2{
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+p{
+    text-align: center;
+}
+
+main img{
+
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+
+main table{
+
+    align: center;
+}
+
+main a:visited{
+
+    color: orange;
+}
+
+main a:hover {
+
+    background-color: blue;
+}
+
+footer{
+
+    color: white;
+    background-color: orange;
+}
+
+p>a {
+
+
+}

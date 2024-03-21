@@ -32,12 +32,12 @@ main table{
 
 main a:visited{
 
-    color: orange;
+   color: red;
 }
 
 main a:hover {
 
-    background-color: blue;
+    background-color: beige;
 }
 
 footer{
@@ -46,7 +46,6 @@ footer{
     background-color: orange;
 }
 
-p>a {
-
-
+a{
+    color: blue;
 }
